@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeAndThink
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning c++, c, etc
+- 🌱 I’m currently learning c++, c, c#, python, etc
 
 <!---
 CodeAndThink/CodeAndThink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
