@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeAndThink
-- 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning c++, c, c#, python, etc
+- 👀 I’m interested in coding, gaming and film
+- 🌱 I’m currently learning Android programming, such as Flutter, Kotlin and Java, or Swift of IOS
 
 <!---
 CodeAndThink/CodeAndThink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
